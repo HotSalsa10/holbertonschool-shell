@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$PATH:; path=${path//[^:]/}; echo ${#path}
+echo $(( $(echo "$PATH" | tr -cd ":" | wc -c) + 1 ))
