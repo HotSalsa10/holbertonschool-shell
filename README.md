@@ -1,3 +1,3 @@
-# holbertonschool-shell
+# Shell projects
 
-This repository contains scripts and exercises for learning Linux shell basics.
+This repository contains Holberton shell scripting projects.
