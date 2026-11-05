@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 -c 'open(bytes.fromhex("5c2a5c5c272242657374205363686f6f6c22275c5c2a245c3f5c2a5c2a5c2a5c2a5c2a3a29").decode(), "w").write("Best School\n")'
