@@ -1,3 +1,2 @@
 #!/bin/bash
-printf '"(Ôo)'
-'
+printf '\042(Ôo)\047\n'
